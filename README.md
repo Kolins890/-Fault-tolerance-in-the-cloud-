@@ -21,9 +21,15 @@
 
 1. Скриншот статуса балансировщика и целевой группы.
 
+<img width="1137" height="816" alt="image" src="https://github.com/user-attachments/assets/00c13e36-6859-48cc-84e3-fdbe1e38f2c8" />
+
+<img width="1148" height="816" alt="image" src="https://github.com/user-attachments/assets/733b0287-041a-4f0c-836d-bd66724b3dfa" />
 
 
 2. Скриншот страницы, которая открылась при запросе IP-адреса балансировщика.
+
+<img width="1147" height="819" alt="image" src="https://github.com/user-attachments/assets/63085e72-2188-4424-bf3e-6110379c75d0" />
+
 
 3. Terraform Playbook.
 
